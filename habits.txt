@@ -1,0 +1,5 @@
+
+Pić wodę,8,szklanek
+Spać,8,godzin
+Chodzić,10000,kroków
+cos,6,null
